@@ -1,0 +1,6 @@
+#!/bin/sh
+while :
+do
+	resetgpio
+	blinkenbt
+done
