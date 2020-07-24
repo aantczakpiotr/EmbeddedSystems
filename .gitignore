@@ -15,3 +15,9 @@
 .idea
 /WeatherApp/.idea
 /WeatherApp/.gradle
+/RpiBt/build/cmake_install.cmake
+/RpiBt/build/CMakeCache.txt
+/RpiBt/build/CMakeFiles
+/RpiBt/buildRpiBT/CMakeFiles
+/RpiBt/buildRpiBT/CMakeCache.txt
+/RpiBt/buildRpiBT/cmake_install.cmake
