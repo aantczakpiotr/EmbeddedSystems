@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/beton/CLionProjects/RpiBT/sendpi/main.cpp
+cstdio
+-
+unistd.h
+-
+sys/socket.h
+-
+bluetooth/bluetooth.h
+-
+bluetooth/rfcomm.h
+-
+iostream
+-
+vector
+-
+list
+-
+fstream
+-
+array
+-
+xmodem.h
+/home/beton/CLionProjects/RpiBT/sendpi/xmodem.h
+
+/home/beton/CLionProjects/RpiBT/sendpi/xmodem.h
+algorithm
+-
+iterator
+-
+cstdint
+-
+array
+-
+

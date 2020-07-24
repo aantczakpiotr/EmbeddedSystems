@@ -1,0 +1,1 @@
+/usr/bin/c++  -o2 -march=native   CMakeFiles/blinkenbt.dir/main.cpp.o CMakeFiles/blinkenbt.dir/lib/gpio.cpp.o CMakeFiles/blinkenbt.dir/lib/btcon.cpp.o CMakeFiles/blinkenbt.dir/lib/xmodem.cpp.o CMakeFiles/blinkenbt.dir/lib/handle.cpp.o  -o blinkenbt -lbluetooth -lpthread 
