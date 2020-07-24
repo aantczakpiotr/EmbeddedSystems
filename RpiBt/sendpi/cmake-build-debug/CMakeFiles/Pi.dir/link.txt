@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Pi.dir/main.cpp.o CMakeFiles/Pi.dir/xmodem.cpp.o  -o Pi  -lbluetooth 

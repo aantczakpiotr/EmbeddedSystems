@@ -1,0 +1,3 @@
+/home/pi/RpiBT/buildRpiBT/CMakeFiles/rebuild_cache.dir
+/home/pi/RpiBT/buildRpiBT/CMakeFiles/blinkenbt.dir
+/home/pi/RpiBT/buildRpiBT/CMakeFiles/edit_cache.dir
