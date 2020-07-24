@@ -15,3 +15,12 @@
 .idea
 /WeatherApp/.idea
 /WeatherApp/.gradle
+<<<<<<< HEAD
+=======
+/RpiBt/build/cmake_install.cmake
+/RpiBt/build/CMakeCache.txt
+/RpiBt/build/CMakeFiles
+/RpiBt/buildRpiBT/CMakeFiles
+/RpiBt/buildRpiBT/CMakeCache.txt
+/RpiBt/buildRpiBT/cmake_install.cmake
+>>>>>>> parent of a006422... .gitignore fix :(
