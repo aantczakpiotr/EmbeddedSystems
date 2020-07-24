@@ -1,3 +1,0 @@
-/home/beton/CLionProjects/RpiBT/build/CMakeFiles/rebuild_cache.dir
-/home/beton/CLionProjects/RpiBT/build/CMakeFiles/edit_cache.dir
-/home/beton/CLionProjects/RpiBT/build/CMakeFiles/Pi.dir
